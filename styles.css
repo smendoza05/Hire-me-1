@@ -1,0 +1,35 @@
+.blue {
+    background-color: #00e6e6;
+    font-family: 'Xanh Mono', monospace;
+}
+
+.hobbies {
+    font-family: 'Goldman', cursive;
+    Font-size: 20px;
+}
+
+.me {
+    font-family: 'Big Shoulders Stencil Display', cursive;
+    font-size: 20px;
+}
+
+.facts {
+    font-family: 'Xanh Mono', monospace;
+    font-size: 20px;
+}
+
+img {
+    width: 100px;
+}
+
+.body {
+    padding: 150px;
+}
+
+.body {
+    background-color: #f2ccff;
+}
+
+.stencil {
+    font-family: 'Xanh Mono', monospace;
+}
